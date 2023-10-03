@@ -1,0 +1,122 @@
+Time: 9/14/2023 10:36:53 PM,  Description: string Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 10:37:33 PM,  Description: Unknown Error,   Exception Message: IDX10653: The encryption algorithm 'HS256' requires a key size of at least '128' bits. Key '[PII of type 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]', is of size: '96'. (Parameter 'key').
+
+Time: 9/14/2023 10:47:44 PM,  Description: rrgr Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 10:48:35 PM,  Description: string Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 10:55:39 PM,  Description: rgrgrg Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 10:55:51 PM,  Description: rrrr Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 10:55:58 PM,  Description: 1deff Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 10:56:27 PM,  Description: fregreg Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 10:56:31 PM,  Description: fregrefg Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:28:40 PM,  Description: Unknown Error,   Exception Message: IDX10653: The encryption algorithm 'HS256' requires a key size of at least '128' bits. Key '[PII of type 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]', is of size: '96'. (Parameter 'key').
+
+Time: 9/14/2023 11:28:48 PM,  Description: rrrror Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:29:01 PM,  Description: Unknown Error,   Exception Message: IDX10653: The encryption algorithm 'HS256' requires a key size of at least '128' bits. Key '[PII of type 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]', is of size: '96'. (Parameter 'key').
+
+Time: 9/14/2023 11:29:02 PM,  Description: Unknown Error,   Exception Message: IDX10653: The encryption algorithm 'HS256' requires a key size of at least '128' bits. Key '[PII of type 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]', is of size: '96'. (Parameter 'key').
+
+Time: 9/14/2023 11:29:06 PM,  Description: Unknown Error,   Exception Message: IDX10653: The encryption algorithm 'HS256' requires a key size of at least '128' bits. Key '[PII of type 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]', is of size: '96'. (Parameter 'key').
+
+Time: 9/14/2023 11:29:22 PM,  Description: rrrrreg Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:34:12 PM,  Description: string Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:46:50 PM,  Description: grgrg Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:46:53 PM,  Description: grgrg Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:46:54 PM,  Description: grgrg Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:46:54 PM,  Description: grgrg Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:46:55 PM,  Description: grgrg Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:46:55 PM,  Description: grgrg Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:46:55 PM,  Description: grgrg Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:46:55 PM,  Description: grgrg Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:46:55 PM,  Description: grgrg Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:47:18 PM,  Description: grgrg Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:47:29 PM,  Description: dfcwrf Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:47:31 PM,  Description: dfcwrf Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:49:36 PM,  Description: dfcwrf Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:49:38 PM,  Description: dfcwrf Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:49:39 PM,  Description: dfcwrf Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:49:39 PM,  Description: dfcwrf Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:52:26 PM,  Description: rgerg Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:52:47 PM,  Description: string Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:53:15 PM,  Description: string Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:53:23 PM,  Description: string Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/14/2023 11:53:37 PM,  Description: string Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/15/2023 12:55:45 AM,  Description: string Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/15/2023 12:56:27 AM,  Description: Unknown Error,   Exception Message: IDX10653: The encryption algorithm 'HS256' requires a key size of at least '128' bits. Key '[PII of type 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]', is of size: '96'. (Parameter 'key').
+
+Time: 9/15/2023 1:02:53 AM,  Description: rrr Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/15/2023 2:11:06 AM,  Description: 123321 Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/15/2023 2:16:23 AM,  Description: ronron Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/19/2023 6:40:38 PM,  Description: Failed to get car image with id 01980a69-5b24-43ae-be33-b5548adbbecb, unknown error:,   Exception Message: The key value at position 0 of the call to 'DbSet<product>.Find' was of type 'string', which does not match the property type of 'Guid'..
+
+Time: 9/23/2023 9:31:28 PM,  Description: Failed to upload a product image, unknown error.,   Exception Message: Incorrect Content-Type: .
+
+Time: 9/23/2023 9:31:33 PM,  Description: Failed to upload a product image, unknown error.,   Exception Message: Incorrect Content-Type: .
+
+Time: 9/24/2023 4:13:55 PM,  Description: ribrib Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/30/2023 10:17:01 AM,  Description: Unknown Error,   Exception Message: The property 'CartItem.ProductId' could not be mapped because it is of type 'Guid[]', which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'..
+
+Time: 9/30/2023 10:17:05 AM,  Description: Unknown Error,   Exception Message: The property 'CartItem.ProductId' could not be mapped because it is of type 'Guid[]', which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'..
+
+Time: 9/30/2023 10:17:07 AM,  Description: Unknown Error,   Exception Message: The property 'CartItem.ProductId' could not be mapped because it is of type 'Guid[]', which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'..
+
+Time: 9/30/2023 10:17:13 AM,  Description: Unknown Error,   Exception Message: The property 'CartItem.ProductId' could not be mapped because it is of type 'Guid[]', which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'..
+
+Time: 9/30/2023 10:17:13 AM,  Description: Unknown Error,   Exception Message: The property 'CartItem.ProductId' could not be mapped because it is of type 'Guid[]', which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'..
+
+Time: 9/30/2023 10:17:13 AM,  Description: Unknown Error,   Exception Message: The property 'CartItem.ProductId' could not be mapped because it is of type 'Guid[]', which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'..
+
+Time: 9/30/2023 10:17:13 AM,  Description: Unknown Error,   Exception Message: The property 'CartItem.ProductId' could not be mapped because it is of type 'Guid[]', which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'..
+
+Time: 9/30/2023 10:17:21 AM,  Description: Unknown Error,   Exception Message: The property 'CartItem.ProductId' could not be mapped because it is of type 'Guid[]', which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'..
+
+Time: 9/30/2023 10:17:31 AM,  Description: Unknown Error,   Exception Message: The property 'CartItem.ProductId' could not be mapped because it is of type 'Guid[]', which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'..
+
+Time: 9/30/2023 10:17:33 AM,  Description: Unknown Error,   Exception Message: The property 'CartItem.ProductId' could not be mapped because it is of type 'Guid[]', which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'..
+
+Time: 9/30/2023 10:19:19 AM,  Description: Failed to get all cars, unknown error:,   Exception Message: The property 'CartItem.ProductId' could not be mapped because it is of type 'Guid[]', which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'..
+
+Time: 9/30/2023 10:19:55 AM,  Description: Unknown Error,   Exception Message: The property 'CartItem.ProductId' could not be mapped because it is of type 'Guid[]', which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'..
+
+Time: 9/30/2023 10:20:22 AM,  Description: Failed to get all cars, unknown error:,   Exception Message: The property 'CartItem.ProductId' could not be mapped because it is of type 'Guid[]', which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'..
+
+Time: 9/30/2023 1:23:20 PM,  Description: rrrr Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 9/30/2023 1:23:23 PM,  Description: rrrr Not found in DataBase,   Exception Message: Exception of type 'gym_siteAPI.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+

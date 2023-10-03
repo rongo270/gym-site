@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\Bike Machine.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\Bike Machine.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\Chast Machine.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\Chast Machine.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\Jump Sopes.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\Jump Sopes.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\Leg Press.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\Leg Press.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\Raw Machine.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\Raw Machine.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\TRX.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\TRX.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\bench.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\bench.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\brownie.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\brownie.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\cookie.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\cookie.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\creatine.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\creatine.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\creatine2.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\creatine2.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\dumbbells.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\dumbbells.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\dumbbells2.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\dumbbells2.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\mats.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\mats.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\pancake.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\pancake.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\protine_whey.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\protine_whey.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\resistance_bands.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\resistance_bands.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\shaker.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\shaker.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\shaker2.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\shaker2.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\tech.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\tech.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Images\\products\\treadmills.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\treadmills.jpg"
+    },
+    {
+      "Id": "C:\\angular\\gym-site API\\gym-siteAPI\\wwwroot\\Logger\\Logs.txt",
+      "PackagePath": "staticwebassets\\Logger\\Logs.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.gym-siteAPI.props",
+      "PackagePath": "build\\gym-siteAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.gym-siteAPI.props",
+      "PackagePath": "buildMultiTargeting\\gym-siteAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.gym-siteAPI.props",
+      "PackagePath": "buildTransitive\\gym-siteAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.gym-siteAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
