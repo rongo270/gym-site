@@ -1,1 +1,0 @@
-{"ast":null,"code":"export const environment = {\n  baseApiUrl: 'https://localhost:7122'\n};\n//the Url to the Api","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
