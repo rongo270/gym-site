@@ -19,7 +19,7 @@
 ### MSSQL
 - Execute the next query scripts in your new created database:
 
-#### Cars:
+#### Products:
 ```
 Go to your admin user (first user you make) -> Product add click on 'Add Starter Products'
 it will import all the products (node, can only be done one`s)
