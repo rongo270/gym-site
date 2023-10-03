@@ -21,7 +21,7 @@
 
 #### Products:
 ```
-Go to your admin user (first user you make) -> Product add click on 'Add Starter Products'
+Go to your admin user (first user you make) -> Product -> click on 'Add Starter Products'
 it will import all the products (node, can only be done one`s)
 
 ```
