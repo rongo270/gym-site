@@ -1,0 +1,16 @@
+<div class="navbar">
+  <div class="site-menu">
+    <a [routerLink]="['/home-page']">HOME</a>
+    <a [routerLink]="['/about']">ABOUT</a>
+    <a [routerLink]="['/contact']">CONTACT</a>
+    <ng-container *ngIf="admin">
+      <a [routerLink]="['/products-admin']">PRODUCTS</a>
+      <a [routerLink]="['/users-admin']">USERS</a>
+    </ng-container>
+    <ng-container *ngIf="!admin">
+      <a [routerLink]="['/products-user']">PRODUCTS</a>
+      <a [routerLink]="['/cart']">CART</a>
+    </ng-container>
+  </div>
+</div>
+

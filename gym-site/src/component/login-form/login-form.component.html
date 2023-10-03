@@ -1,0 +1,42 @@
+<div class="container-xxl mt-5">
+  <div *ngIf="!LoggedIn">
+    <form class="form-signin" #loginForm="ngForm" (ngSubmit)="login(loginForm)">
+      <div class="container-xxl mt-5">
+        <h1 class="center">Login</h1>
+        <div *ngIf="invalidLogin" class="alert alert-danger">
+          Invalid name or password
+        </div>
+        <br />
+        <div>
+          <label for="email" class="sr-only">Email:</label>
+          <input name="email"
+                 type="text"
+                 id="email"
+                 ngModel
+                 class="form-control"
+                 placeholder="email"
+                 required
+                 autofocus />
+        </div>
+        <div>
+          <label for="password" class="sr-only">Password:</label>
+          <input name="password"
+                 type="password"
+                 id="password"
+                 ngModel
+                 class="form-control"
+                 placeholder="password"
+                 required
+                 autofocus />
+        </div>
+        <br />
+        <button class="btn btn-dark" type="submit">Login</button>
+      </div>
+    </form>
+  </div>
+  <div *ngIf="LoggedIn">
+    <h1 class="center">You are logged in !</h1>
+  </div>
+</div>
+<div class="user-link" *ngIf="LoggedIn == false">dont have a user, click <a href="sign-in">here</a> to create</div>
+

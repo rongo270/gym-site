@@ -1,0 +1,35 @@
+<div class="add">
+  <a href="AddProduct">Add Product</a>
+</div>
+<div *ngIf="products.length === 0">
+  <a href="products"><app-starter-products></app-starter-products></a>
+</div>
+
+<div class="product-grid">
+  <div class="product-item" *ngFor="let p of products; let i = index">
+    <div class="product-image">
+      <img [src]="p.image | safeResourceUrl"
+           class="product.image"
+           alt="no image" />
+
+      <h4 class="product-name">Name: {{ p.name }}</h4>
+      <div class="product-info">
+        <span class="label">Details:</span>
+        <span class="value"> {{ p.read }}</span>
+      </div>
+    </div>
+    <div class="product-details">
+      <div class="product-info">
+        <span class="label">Price:</span>
+        <span class="value"> {{ p.price }}$</span>
+        <span class="label">Available:</span>
+        <span class="value"> {{ p.available }}</span>
+      </div>
+    </div>
+
+    <div class="button-group">
+      <a [routerLink]="['/products-admin','edit',p.id]"><button class="btn btn-success">Edit Product</button></a>
+      <button class="btn btn-danger" (click)="deleteProduct(p.id)">Delete</button>
+    </div>
+  </div>
+  </div>

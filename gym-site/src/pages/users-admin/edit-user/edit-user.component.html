@@ -1,0 +1,28 @@
+<div class="row">
+  <div class="col-6">
+    <form #form="ngForm" (ngSubmit)="updateUser()">
+      <div class="mb-3">
+        <label for="name" class="form-label">name</label>
+        <input type="text" class="form-text" id="name"
+               name="name" [(ngModel)]="userDetails.name">
+      </div>
+      <div class="mb-3">
+        <label for="lastname" class="form-label">last name</label>
+        <input type="text" class="form-text" id="lastname"
+               name="price" [(ngModel)]="userDetails.lastName">
+      </div>
+      <div class="mb-3">
+        <label for="email" class="form-label">email</label>
+        <input type="text" class="form-text" id="email"
+               name="email" [(ngModel)]="userDetails.email">
+      </div>
+      <div class="mb-4">
+        <label for="admin" class="form-label">admin</label>
+        <input type="checkbox" class="form-text" id="admin"
+               name="admin" [(ngModel)]="userDetails.admin">
+      </div>
+      <button type="submit" class="btn btn-primary mr-5">save</button>
+      <button type="button" class="btn btn-danger" (click)="deleteProduct(userDetails.id)">Delete</button>
+    </form>
+  </div>
+</div>

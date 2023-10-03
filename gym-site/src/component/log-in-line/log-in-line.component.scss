@@ -1,0 +1,23 @@
+
+p {
+  font-size: 20px; 
+  color: #333;
+  text-align: center;
+  font-weight: bold;
+  margin: 0;
+  background-color: #455;
+  border-radius: 5px;
+}
+
+
+a {
+  text-decoration: none;
+  color: #0056b3; 
+  font-weight: 600; 
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,31 @@
+<!-- users-admin.component.html -->
+<div class="container">
+  <h2>User Administration</h2>
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Email</th>
+        <th>Name</th>
+        <th>Last Name</th>
+        <th>Admin</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let user of users">
+        <ng-container *ngIf="user.id !== currentUser?.id">
+          <td>{{ user.id }}</td>
+          <td>{{ user.email }}</td>
+          <td>{{ user.name }}</td>
+          <td>{{ user.lastName }}</td>
+          <td>{{ user.admin ? 'Yes' : 'No' }}</td>
+          <td>
+            <a [routerLink]="['/users-admin','edit',user.id]"><button class="btn btn-success">Edit User</button></a>
+            <button class="btn btn-danger" (click)="deleteUser(user.id)">Delete</button>
+          </td>
+        </ng-container>
+      </tr>
+    </tbody>
+  </table>
+</div>

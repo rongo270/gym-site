@@ -1,0 +1,36 @@
+<div *ngIf="!uploaded" class="row">
+  <div class="col-6">
+    <form #form="ngForm" (ngSubmit)="addProduct()">
+      <div *ngIf="errorMessage !== ''" class="alert alert-danger">
+        <p><strong>Error occurred:</strong></p>
+        {{ errorMessage }}
+      </div>
+      <div class="mb-3">
+        <label for="name" class="form-label">name</label>
+        <input type="text" class="form-text" id="name"
+               name="name" [(ngModel)]="addProductRequest.name">
+      </div>
+      <div class="mb-3">
+        <label for="price" class="form-label">Price</label>
+        <input type="text" class="form-text" id="price"
+               name="price" [(ngModel)]="addProductRequest.price">
+      </div>
+      <div class="mb-3">
+        <label for="available" class="form-label">available</label>
+        <input type="text" class="form-text" id="available"
+               name="available" [(ngModel)]="addProductRequest.available">
+      </div>
+      <div class="mb-3">
+        <label for="read" class="form-label">read</label>
+        <input type="text" class="form-text" id="read"
+               name="read" [(ngModel)]="addProductRequest.read">
+      </div>
+      <div *ngIf="ShowImageButton" class="m-3">
+      </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+ </div>
+</div>
+<div *ngIf="uploaded" class="image">
+  <app-upload-image [productName]="addProductRequest.name"></app-upload-image>
+</div>

@@ -1,0 +1,5 @@
+<p>
+  Hello {{name}}
+  <a routerLink="log-In" *ngIf="loggedIn == false">Log In</a>
+  <a href="/log-In" *ngIf="loggedIn" (click)="logout()">Log out</a>
+</p>

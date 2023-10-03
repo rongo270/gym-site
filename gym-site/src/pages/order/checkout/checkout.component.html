@@ -1,0 +1,53 @@
+<div *ngIf="!complete && !completeAll">
+  <div *ngIf="cartItems.length === 0; else cartContents">
+    <p>Your shopping cart is empty.</p>
+  </div>
+
+
+  <ng-template #cartContents id="cart-contents">
+    <table>
+      <thead>
+        <tr>
+          <th>Product Name</th>
+          <th>Price</th>
+          <th>Quantity</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of cartItems">
+          <td>{{ item.name }}</td>
+          <td>{{ item.price }}$</td>
+          <td>1</td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="pay">
+      <h2 class="price">Total Price is: {{ totlePrice }}$</h2>
+      <button  (click)="resetcart()">Pay Here</button> 
+    </div>
+  </ng-template>
+</div>
+
+
+<div *ngIf="complete">
+  <form class="credit-card-form">
+    <div class="form-group">
+      <label for="cardNumber">Card Number</label>
+      <input type="text" id="cardNumber" />
+    </div>
+    <div class="form-group">
+      <label for="expirationDate">Date <br /></label>
+      <input type="month" id="expirationDate" min="2024-01" />
+    </div>
+    <div class="form-group">
+      <label for="cvv">CVV <br /></label>
+      <input type="text" id="cvv" pattern="[0-9]{3}" title="Three-digit CVV" />
+    </div>
+    <button (click)="completePayment()">Complete Payment</button>
+  </form>
+</div>
+
+<div *ngIf="completeAll" class="done">
+  <h2>payment Completed</h2>
+  <h3>ty for buying in gym-site</h3>
+</div>

@@ -1,0 +1,8 @@
+<div class="gym-container">
+  <h2>Revetso</h2>
+  <ng-container *ngFor="let p of Revetso">
+    <div class="name"><h3>{{ p.name }}</h3></div>
+    <div class="time" [innerHTML]="p.time"></div>
+    <div class="telefon">{{ p.telefon }}</div>
+  </ng-container>
+</div>
