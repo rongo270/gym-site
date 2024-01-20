@@ -4,7 +4,7 @@
 ## Configuration
 ### Asp.Net Core Web API
 - Go To `ConfiguredValues.cs`.
-- Change the values to your local ports, `GetClient` will be Angulars Default port and `GetServer` will be the server default port, they are defaulty set to: `https://localhost:7099` (server) and `http://localhost:4200` (client).
+- Change the values to your local ports, `GetClient` will be Angulars Default port and `GetServer` will be the server default port, they are defaulty set to: `https://localhost:7122` (server) and `http://localhost:4200` (client).
 - Change servername from LAPTOP-70DUI6LP to your local mssql server name, in `appsettings.json`.
 
 
@@ -15,21 +15,23 @@
 - If you dont have angular download node.js -> npm install -g @angular/cli
 
 
+```
 ### MSSQL
 - Go to tools in VS studio > nuget package manager > package manager console > write: `Update-Database` (After Configuration)
 
-#### Products:
 ```
+#### Users:
+Go to log in on top of the page -> Creat user -> first user you will sign up will be admin, so dont forget password
+(user got no registration conditions for enter a user easily...)
+```
+
+#### Products:
 Go to your admin user (first user you make) -> Product -> click on 'Add Starter Products'
 it will import all the products (node, can only be done one`s)
 
 ```
-#### Users:
-```
-Go to log in on top of the page -> Creat user -> first user you will sign up will be admin, so dont forget password
-(user got no registration conditions for enter a user easily...)
 
-```
+
 ## Running The Project
 - Make sure you've configured everything.
 - Open the Server(API) Project and run it (it will also show you the swagger).
