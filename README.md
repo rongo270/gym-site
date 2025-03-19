@@ -12,7 +12,7 @@
 - Open the Client using cmd and enter `npm install`.
 - Go To `myEnvironment.ts`.
 - Change the `ServerUrl` to your server default port, it is defaulty set to: `https://localhost:7122`.
-- If you dont have angular download node.js -> npm install -g @angular/cli
+- If you dont have angular download node.js -> npm install -g @angular/cli  !!!!!
 
 
 ```
@@ -35,7 +35,7 @@ it will import all the products (node, can only be done one`s)
 ## Running The Project
 - Make sure you've configured everything.
 - Open the Server(API) Project and run it (it will also show you the swagger).
-- Open the Client using cmd and enter `ng serve`.
+- Open the Client (gym-site) using cmd and enter `ng serve`.
 - Enter your Angular port url in the browser, it is usually `http://localhost:4200/`.
 
 ## Technologies I've Used for the Project
