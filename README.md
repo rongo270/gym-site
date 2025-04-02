@@ -2,6 +2,13 @@
 
 
 ## Configuration
+### Requires and Downloads
+- Node.js (18.0 +)
+- angular (16.2 +) -> enter in cmd npm install -g @angular/cli
+- typescript (5.2 +) -> enter in cmd npm install typescript --save-dev
+- download .NET 6.0
+- in visual studio go to tools -> get Tools and featurs -> individual components, mark .NET 6.0
+  
 ### Asp.Net Core Web API
 - Go To `ConfiguredValues.cs`.
 - Change the values to your local ports, `GetClient` will be Angulars Default port and `GetServer` will be the server default port, they are defaulty set to: `https://localhost:7122` (server) and `http://localhost:4200` (client).
