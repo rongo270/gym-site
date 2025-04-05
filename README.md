@@ -56,7 +56,7 @@ it will import all the products (node, can only be done one`s)
 
 
 
-# On Site
+# On-Site Project
 ## Pages
 - Home - A slideshow of motivational quotes and pictures.
 - About / Contact - Information about the site and how to contact the creator.
@@ -75,7 +75,7 @@ it will import all the products (node, can only be done one`s)
 -Admins can edit or delete user details.
 ![image](https://github.com/user-attachments/assets/8bc8b059-71ed-4ccc-b6ad-3e48cbde1cae)
 
-# Nodes
+# Notes
 -This is the first project I built to practice Angular on my own, learning everything by myself. I know there’s still a lot to improve, and I’m excited to keep learning and getting better.
 
 
