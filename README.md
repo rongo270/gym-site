@@ -54,4 +54,9 @@ it will import all the products (node, can only be done one`s)
 ## Code I've used for my project
 - Angular Image Upload Button: `https://code-maze.com/upload-files-dot-net-core-angular/`.
 
+- #On Site
+- ![image](https://github.com/user-attachments/assets/4a01a877-06c2-4011-ac62-fc3875151a6a)
+- 
+
+
 
