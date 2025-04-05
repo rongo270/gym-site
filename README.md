@@ -54,9 +54,29 @@ it will import all the products (node, can only be done one`s)
 ## Code I've used for my project
 - Angular Image Upload Button: `https://code-maze.com/upload-files-dot-net-core-angular/`.
 
-- #On Site
-- ![image](https://github.com/user-attachments/assets/4a01a877-06c2-4011-ac62-fc3875151a6a)
-- 
+
+
+# On Site
+## Pages
+- Home (slideshow of quotes and picture of motivation)
+- About / Contact (About the site)
+- Log / Sign in - Need to fill user data. Note, the password will be encripded with a key   
+### Products
+- User and Guset - Can add to the cart product that they will wish to buy, one's they will add product the sum of the product will subtract one
+![image](https://github.com/user-attachments/assets/f2a60396-7d3b-47a4-915f-9cd7237ffd09)
+- Admin - Admin can edit, delete or add a new product. If you wish to add product you need to provide IMG as well. all the changes will be send to the DB
+- ![image](https://github.com/user-attachments/assets/6c84d824-99f4-4334-9417-1d9729a2dd7a)
+
+### Cart
+- Guset - the Guest car will be save as cookies, one's they will want to but they will be needed to log-in ones log in complete all the prudect will be update in there DB and the cookies will be deleted.
+- User - Will be about to prosed to pay.
+- ![image](https://github.com/user-attachments/assets/842d7e90-568d-4780-911b-aa6f4b184892)
+### User Administration
+-Admin will be aboul to edit user detiles and Delete them
+![image](https://github.com/user-attachments/assets/8bc8b059-71ed-4ccc-b6ad-3e48cbde1cae)
+
+
+
 
 
 
